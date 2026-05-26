@@ -3,10 +3,7 @@ langchain
 openai
 faiss-cpu
 python-dotenv
-<<<<<<< HEAD
 pypdf
 langchain-openai
 langchain-community
-=======
 pypdf
->>>>>>> 673e94ec020fbb5bb49b148a3b9187688e79c741
